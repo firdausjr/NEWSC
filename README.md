@@ -19,4 +19,4 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 # SSH WS [ON] Wajib Deb 10 atau Ubuntu 18
 # Selain OS di atas SSH WS [OFF] Run Xray Only
 # Autoscript Premium By
-###𝔽𝕀ℝ𝔻𝔸𝕌𝕊 𝕍ℙℕ ℍ𝔻𝕀 ℕ𝕌𝕊𝔸ℕ𝕋𝔸ℝ𝔸###
+### 𝔽𝕀ℝ𝔻𝔸𝕌𝕊 𝕍ℙℕ ℍ𝔻𝕀 ℕ𝕌𝕊𝔸ℕ𝕋𝔸ℝ𝔸 ###
