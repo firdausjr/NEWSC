@@ -14,7 +14,7 @@ link wa : https://wa.me/+6282232547380
 
 # Command Install Script
 ```
-apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdausjr/NEWSC/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget https://raw.githubusercontent.com/firdausjr/NEWSC/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 # List Service Tunnel
 ✓ SSH Websocket-SSL-UDP
