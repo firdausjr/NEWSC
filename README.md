@@ -16,6 +16,17 @@ link wa : https://wa.me/+6282232547380
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdausjr/NEWSC/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
+# List Service Tunnel
+✓ SSH Websocket-SSL-UDP
+✓ Xray Vmess
+✓ Xray Vless
+✓ Xray Trojan
+✓ Xray Shadowsocks
+✓ Openvpn SSL-TCP-UDP-OHP proxy
+# Port
+~ Multi Port Default : 
+✓ SSL 443
+✓ HTTP 80
 # SSH WS [ON] Wajib Deb 10 atau Ubuntu 18
 # Selain OS di atas SSH WS [OFF] Run Xray Only
 # Autoscript Premium By
